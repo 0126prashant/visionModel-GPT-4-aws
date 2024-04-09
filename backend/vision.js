@@ -15,7 +15,7 @@ async function main(){
                 },
                 {
                   type:"image_url",
-                  image_url : "https://plus.unsplash.com/premium_photo-1663127169557-ed8b47342658?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmVhZ2xlfGVufDB8fDB8fHww"
+                  image_url : "https://images.unsplash.com/photo-1712371963079-6d3a77f70e50?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D"
                 }
               ]
             },
