@@ -21,8 +21,7 @@ async function main(){
             },
             
           ],
-          max_tokens: 4096,
-    temperature: 2 
+          max_tokens: 300,
   })
   console.log(response.choices[0].message.content)
 }
